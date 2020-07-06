@@ -40,4 +40,3 @@ function timePosted($days)
 $posted =  timePosted($diff_date->days);
 
 echo $posted;
-// $date_diff = $datePostFormated->date_diff($currentDate);
